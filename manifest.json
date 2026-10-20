@@ -6,8 +6,8 @@
   "icon": "simple-icons:obsstudio",
   "entry": "dist/index.js",
   "dependencies": [],
-  "streamKitVersion": ">=0.1.0",
-  "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-obs/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-obs/releases/download/v0.2.0-alpha.7/plugin-obs.zip",
-  "sha256": "d0d421dd43dee2464219a4c0cd1a7614313e0415cdff29498dbde1c5363fc092"
+  "cuesparkVersion": ">=0.1.0",
+  "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-obs/main/manifest.json",
+  "downloadUrl": "https://github.com/cuespark/plugin-obs/releases/download/v0.2.0-alpha.7/plugin-obs.zip",
+  "sha256": "58857aa4bb9ddfb6fa3bebca680be5950beac12415145e4a28c53ae1f9626cd8"
 }
