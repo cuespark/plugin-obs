@@ -9,5 +9,5 @@
   "cuesparkVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-obs/main/manifest.json",
   "downloadUrl": "https://github.com/cuespark/plugin-obs/releases/download/v0.2.0-alpha.7/plugin-obs.zip",
-  "sha256": "4f7c9c506f4bccfb9b068b4f5d9963e835cc2ef5b8cba97cdf951729a61085e9"
+  "sha256": "e166168fc876e4b993694af2bdd1b47ee998513d8dbff02f779d83b1508dbfa7"
 }
